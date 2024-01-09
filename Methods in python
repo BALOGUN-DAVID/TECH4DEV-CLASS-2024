@@ -1,0 +1,22 @@
+20 methods in python 
+
+1. append()	Adds an element at the end of the list
+2. clear()	Removes all the elements from the list
+3. copy()	Returns a copy of the list
+4. count()	Returns the number of elements with the specified value
+5. extend()	Add the elements of a list (or any iterable), to the end of the current list
+6. index()	Returns the index of the first element with the specified value
+7. insert()	Adds an element at the specified position
+8. pop()	Removes the element at the specified position
+9. remove()	Removes the first item with the specified value
+10. reverse()	Reverses the order of the list
+11. sort()	Sorts the list
+12. upper(), lower(): Converts a string to uppercase or lowercase.
+13. capitalize(): Capitalizes the first character.
+14. split(): Splits a string into a list based on a delimiter.
+15. join(): Joins elements of a list into a string using a specified delimiter.
+16. strip(), lstrip(), rstrip(): Removes whitespace characters.
+17. replace(): Replaces occurrences of a substring.
+18. find(), index(): Searches for a substring and returns its index.
+19. startswith(), endswith(): Checks if a string starts or ends with a given substring.
+20. values(): Returns a view of the dictionary's values.
